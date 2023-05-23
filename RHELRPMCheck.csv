@@ -1,0 +1,5 @@
+RHEL Updated Packages
+  tigervnc-license.noarch 0:1.8.0-24.el7_9                                      
+  tigervnc-server-minimal.x86_64 0:1.8.0-24.el7_9                               
+  xorg-x11-server-Xorg.x86_64 0:1.20.4-22.el7_9                                 
+  xorg-x11-server-common.x86_64 0:1.20.4-22.el7_9 
