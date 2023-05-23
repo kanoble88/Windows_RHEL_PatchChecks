@@ -1,7 +1,9 @@
 # Windows_RHEL_PatchChecks
 Checks Patches Installed on Windows/RHEL VMs hosted in vSphere
 
-Needs PowerCLI installed - If not installed the script should install it from the local version
+Needs PowerCLI installed - If not installed you can put a .zip file of PowerCLI in the script directory and it will install it
+since the PowerCLI modules I had are too big to upload.
+
 Needs RHEL Root Login
 Needs vSphere Credentials and Windows login with admin rights
 
